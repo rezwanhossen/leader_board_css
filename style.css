@@ -191,6 +191,22 @@ span {
     color: #ED6B4F;
 }
 
+footer {
+    background-color: rgb(48, 35, 35);
+    color: #F3F1FF;
+    text-align: center;
+    padding: 30px 50px;
+    margin-top: 20px;
+}
+
+.footer-contaner a {
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 10px;
+    color: #F3F1FF;
+
+}
+
 @media only screen and (max-width:688px) {
     .navbar {
         display: block;
